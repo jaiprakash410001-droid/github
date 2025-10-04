@@ -5,4 +5,5 @@ d=input("near by landmark")
 e = input("your district")
 f=input("Your state")
 g=int(input("enter pincode"))
+
 print(a,",",b,",",c,",",d,",",e,",",f,",",g)        
